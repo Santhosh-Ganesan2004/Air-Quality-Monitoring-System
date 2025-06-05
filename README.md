@@ -62,7 +62,7 @@ Gas-and-Temperature-Monitoring/
 
 ## Images
 ### Block Diagram
-![Block Diagram](Images/Block_Diagram.png)
+![Block Diagram](Images/Block_diagram.png)
 
 ### Circuti Diagram
 ![Circuit Design](Images/Circuit_Diagram.png)
