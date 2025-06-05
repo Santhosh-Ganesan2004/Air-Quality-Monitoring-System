@@ -53,11 +53,13 @@ Gas-and-Temperature-Monitoring/
    - Reading sensor data
    - Sending data to the Blynk server
 3. Update the `ssid`, `password`, and `BLYNK_AUTH_TOKEN` in the script.
+4. Setup a Google Firebase database and and add the url to the `main.py`.
 
 ### Running the System
 1. Upload the `main.py` script to the ESP32 using Thonny IDE.
 2. Monitor the sensor readings in real time via the Blynk app.
 3. Receive alerts when gas or temperature levels exceed the thresholds.
+4. Every value recorded gets stored in the Firebase database.
 
 ---
 
@@ -78,7 +80,7 @@ Gas-and-Temperature-Monitoring/
 
 ## Results and Discussion
 The IoT-based monitoring system successfully tracks gas concentration and temperature in real time. Testing has shown accurate readings and reliable alerts through the Blynk app and registered gmail, making this system a practical solution for ensuring environmental safety.
-Also the data is stored in firebase API for future usage and analysis.
+And every data recorded is stored in google firebase for future usage and analysis.
 
 ---
 
