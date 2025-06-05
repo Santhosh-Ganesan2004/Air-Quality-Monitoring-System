@@ -37,6 +37,7 @@ Gas-and-Temperature-Monitoring/
 ### Software
 - Python with the `Thonny` IDE
 - Blynk IoT Platform
+- Google Firebase
 
 ---
 
@@ -76,7 +77,8 @@ Gas-and-Temperature-Monitoring/
 ---
 
 ## Results and Discussion
-The IoT-based monitoring system successfully tracks gas concentration and temperature in real time. Testing has shown accurate readings and reliable alerts through the Blynk app, making this system a practical solution for ensuring environmental safety.
+The IoT-based monitoring system successfully tracks gas concentration and temperature in real time. Testing has shown accurate readings and reliable alerts through the Blynk app and registered gmail, making this system a practical solution for ensuring environmental safety.
+Also the data is stored in firebase API for future usage and analysis.
 
 ---
 
